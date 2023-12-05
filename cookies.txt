@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mahohboh.org	TRUE	/	FALSE	1999999999	wmc_ip_info	eyJjb3VudHJ5IjoiWkEiLCJjdXJyZW5jeV9jb2RlIjoiWkFSIn0%3D
+www.mahohboh.org	TRUE	/	FALSE	1999999999	wmc_current_currency	ZAR
+www.mahohboh.org	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.mahohboh.org	TRUE	/	FALSE	1999999999	wp_woocommerce_session_032e5758b9eb8ab87f99897430aea54b	t_652dffaf07474536e68bd2afef0d15%7C%7C1701945635%7C%7C1701942035%7C%7Cd9e8d08260120a293760e39cd54cddbb
+www.reuters.com	TRUE	/	FALSE	1999999999	reuters-geo	{"country":"-", "region":"-"}
+www.mahohboh.org	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	56823c4097796da9dd7cfe38f48a0cb9
+
